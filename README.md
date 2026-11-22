@@ -1,5 +1,9 @@
 # Harbourlight: The Low-Tide Job
 
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/chrihh/makefun-heist-game-v2/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/chrihh/makefun-heist-game-v2/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+
 ![Heist game](https://img.shields.io/badge/genre-heist%20stealth-2b4a52)
 ![Browser game](https://img.shields.io/badge/plays%20in-Chrome-31556b)
 ![Offline](https://img.shields.io/badge/network-none-6e5636)
