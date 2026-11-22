@@ -166,6 +166,11 @@ export function createRenderer(canvas) {
       ctx.fillStyle = '#cfd8dc';
       ctx.beginPath(); ctx.arc(state.noise.x, state.noise.y, 4, 0, Math.PI * 2); ctx.fill();
     }
+    // A lamplight ring so the thief reads at a glance in any frame.
+    ctx.strokeStyle = 'rgba(240, 180, 41, 0.55)';
+    ctx.lineWidth = 2;
+    ctx.beginPath(); ctx.arc(t.x, t.y, t.r + 6, 0, Math.PI * 2); ctx.stroke();
+    ctx.lineWidth = 1;
     ctx.fillStyle = 'rgba(0,0,0,0.35)';
     ctx.beginPath(); ctx.ellipse(t.x, t.y + 12, 13, 5, 0, 0, Math.PI * 2); ctx.fill();
     ctx.fillStyle = PALETTE.thiefCoat;
